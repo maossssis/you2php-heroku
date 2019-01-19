@@ -1,6 +1,6 @@
  <footer class="p-2">
         <p  class="text-white p-1 m-1 h6">
-            Copyright © 2015-<?php echo date('Y');?> All Rights Reserved </br>
+            Copyright © 2015-2019大鸦帝国All Rights Reserved 小毛蛋吴没牛还钱！</br>
         </p>
         <p  class="text-white  m-1 p-1 h6">
             Powered by <a href="https://you2php.github.io/" target="_blank" class="text-white font-italic">YOU2PHP</a> 
