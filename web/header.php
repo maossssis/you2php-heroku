@@ -7,8 +7,8 @@ error_reporting( E_ALL&~E_NOTICE );
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title><?php echo $headtitle ?></title>
-<meta name="keywords" content="Youtube,Youtube镜像,Youtube直通车,Youtube镜像网站,Youtube视频代理,Youtube在线视频" />
-<meta name="description" content="Youtube镜像" />
+<meta name="keywords" content="传说中兄贵们所生活居住的地方，出自木吉カズヤ和比利对战时大喝的一句"Shinnippori!!新日暮里しんにっぽり是一个与我们所生活的次元隔绝但又暗里存在着各种微妙的联系的幻想乡，政治上的领袖为森之大统领，而精神上的领袖则是森の妖精比利·海灵顿，与兄贵有关的故事大多在此展开。" />
+<meta name="description" content="Niutube牛管" />
 
 <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" name="viewport" />
 <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" >
