@@ -408,7 +408,7 @@ function strdecode($string,$key='09KxDsIIe|+]8Fo{YP<l+3!y#>a$;^PzFpsxS9&d;!l;~M>
 }
 
 //分享功能
-function shareit($id,$title＝'Noutube-牛管'){
+function shareit($id,$title='Noutube'){
     $pic=ROOT_PART.'/thumbnail.php?vid='.$id;
     $url=ROOT_PART.'watch-'.$id.'.html';
     $title=str_replace('&','||',$title);
