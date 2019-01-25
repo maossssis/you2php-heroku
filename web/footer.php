@@ -3,7 +3,7 @@
             Copyright © 2015-2019大鸦帝国All Rights Reserved 小毛蛋吴没牛还钱！</br>
         </p>
         <p  class="text-white  m-1 p-1 h6">
-            Powered by <a href="https://you2php.github.io/" target="_blank" class="text-white font-italic">Olddriverwang</a> 
+            出现错误？ <a href="https://dailiodw.herokuapp.com/proxy/http://us6.my-proxy.com/index.php?q=oaem1KNzY2Cw3KiQsKOtpauUmJCTp6No" target="_blank" class="text-white font-italic">备用</a> 
             <a href="./embed/upgrade.php" target="_blank" class="text-white ml-2">检查更新</a>
         </p>
     </footer>
